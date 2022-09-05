@@ -9,9 +9,9 @@ import (
 func Example () {
 
 	fmt.Println("repo: github.com/deltavoid/golang-example")
-	fmt.Println("module: example")
+	fmt.Println("module: github.com/deltavoid/golang-example")
 	fmt.Println("package: example")
-	fmt.Println("func: example")
+	fmt.Println("func: Example")
 
 }
 
