@@ -6,7 +6,7 @@ import (
 
 
 
-func example () {
+func Example () {
 
 	fmt.Println("repo: github.com/deltavoid/golang-example")
 	fmt.Println("module: example")
