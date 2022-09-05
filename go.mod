@@ -1,3 +1,3 @@
-module example
+module golang-example
 
 go 1.19
