@@ -4,15 +4,16 @@ import (
 	// "example"
 	"fmt"
 
+	"github.com/deltavoid/golang-example"
+
 )
 
 
 
 func main() {
 
-	// example()
+	fmt.Println("hello world")
 
-	fmt.Println("example")
-
+	example.Example()
 
 }
