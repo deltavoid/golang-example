@@ -13,6 +13,8 @@ func Example () {
 	fmt.Println("package: example")
 	fmt.Println("func: Example")
 
+	fmt.Println("hello Example")
+
 }
 
 
